@@ -267,4 +267,5 @@ end
                                                 (MOI.VectorAffineFunction{Float64}, MOI.GeometricMeanCone, 0),
                                                 (MOI.VectorAffineFunction{Float64}, MOI.PositiveSemidefiniteConeTriangle, 0)))
     end
+
 end
